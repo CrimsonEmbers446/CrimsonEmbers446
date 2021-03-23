@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CrimsonEmbers446
+- 👀 I’m interested in Programming. engineering, art, & music
+- 🌱 I’m currently learning Python, C#, Geometry, & art
+- 💞️ I’m looking to collaborate on a game (jam)
+- 📫 How to reach me: discord, crimson#2179
